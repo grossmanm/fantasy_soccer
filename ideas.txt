@@ -1,0 +1,2 @@
+Basic functionality:
+- Add and remove players from your roster
